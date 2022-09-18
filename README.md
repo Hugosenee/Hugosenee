@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Hugosenee/Hugosenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>salut les amis c'est moi le dev</p>
 
 Here are some ideas to get you started:
 
