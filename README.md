@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>salut les amis c'est moi le dev</p>
+salut les amis c'est moi le dev
 
 Here are some ideas to get you started:
 
