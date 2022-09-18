@@ -1,17 +1,19 @@
 ### Hello there !
-Petit clin d'oeil au plus grand chef d'oeuvre cinématographique.
+Small nod to the greatest cinematic masterpiece.
 
-Hugo Senée, 2ème année en bachelor Coding et digital Innovation.
+Hugo Senée, second year in Coding and Digital Innovation studies.
 
 - :white_check_mark: Html, CSS, Javascript
 - :green_heart: Adobe Creative Cloud, 3ds Max, Unity
-- :technologist: soif de connaissance sur la transformation digitale.
-- :bento: voyager, plus qu'une passion
+- :technologist: thirst for knowledge about digital Innovation and transformation.
+- :bento: travel, a way of life
 
-Maintenant que vous en savez un peu plus sur moi, je vous laisse mes coordonnées pour toutes demandes de contact :
-:iphone: Linkedin : Hugo Senée
-:camera_flash: Instagram : hugosenee_
-:speech_balloon: Mail : hugosenee19@gmail.com
+Now that you know a little more about me, I leave you my contact information for all contact requests:
+- :iphone: Linkedin : Hugo Senée
+
+- :camera_flash: Instagram : hugosenee_
+
+- :speech_balloon: Mail : hugosenee19@gmail.com
   
 
 
