@@ -3,7 +3,7 @@ Small nod to the greatest cinematic masterpiece.
 
 Hugo Senée, second year in Coding and Digital Innovation studies.
 
-- :white_check_mark: Html, CSS, Javascript
+- :mag: Learning : Html, CSS, Javascript
 - :green_heart: Adobe Creative Cloud, 3ds Max, Unity
 - :technologist: thirst for knowledge about digital Innovation and transformation.
 - :bento: travel, a way of life
